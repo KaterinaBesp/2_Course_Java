@@ -1,3 +1,5 @@
+package Lesson1;
+
 import Lesson1.action.Action;
 import Lesson1.action.Cats;
 import Lesson1.action.Dogs;
